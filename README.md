@@ -75,11 +75,6 @@ const bernardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Araujo-Silva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Araujo-Silva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=7"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-Araujo-Silva&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
