@@ -75,12 +75,12 @@ const bernardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Araújo-Silva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Araújo-Silva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=7"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Araujo-Silva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Araujo-Silva&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=7"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-Araújo-Silva&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-Araujo-Silva&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
 ---
@@ -89,8 +89,8 @@ const bernardo = {
 
 <div align="center">
 
-[![Sistema Bancário](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araújo-Silva&repo=REPO_SISTEMA_BANCARIO&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araújo-Silva/REPO_SISTEMA_BANCARIO)
-[![AkiPalavras](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araújo-Silva&repo=REPO_AKIPALAVRAS&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araújo-Silva/REPO_AKIPALAVRAS)
+[![Sistema Bancário](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araujo-Silva&repo=REPO_SISTEMA_BANCARIO&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araujo-Silva/REPO_SISTEMA_BANCARIO)
+[![AkiPalavras](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araujo-Silva&repo=REPO_AKIPALAVRAS&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araujo-Silva/REPO_AKIPALAVRAS)
 
 </div>
 
@@ -116,7 +116,7 @@ const bernardo = {
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Araújo-Silva&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Araujo-Silva&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -124,11 +124,11 @@ const bernardo = {
 <div align="center">
 
 <!-- Snake animation (configure no GitHub Actions) -->
-<img src="https://raw.githubusercontent.com/Bernardo-Araújo-Silva/Bernardo-Araújo-Silva/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Bernardo-Araujo-Silva/Bernardo-Araujo-Silva/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Bernardo-Araújo-Silva.Bernardo-Araújo-Silva&color=58A6FF)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Bernardo-Araujo-Silva.Bernardo-Araujo-Silva&color=58A6FF)
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer"/>
