@@ -89,8 +89,8 @@ const bernardo = {
 
 <div align="center">
 
-[![Sistema Bancário](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araujo-Silva&repo=REPO_SISTEMA_BANCARIO&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araujo-Silva/REPO_SISTEMA_BANCARIO)
-[![AkiPalavras](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araujo-Silva&repo=REPO_AKIPALAVRAS&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araujo-Silva/REPO_AKIPALAVRAS)
+[![Sistema Bancário](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araujo-Silva&repo=Sistema-Bancario&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araujo-Silva/Sistema-Bancario)
+[![AkiPalavras](https://github-readme-stats.vercel.app/api/pin/?username=Bernardo-Araujo-Silva&repo=AkiPalavras&theme=tokyonight&hide_border=true)](https://github.com/Bernardo-Araujo-Silva/AkiPalavras)
 
 </div>
 
