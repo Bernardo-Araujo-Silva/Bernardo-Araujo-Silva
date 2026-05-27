@@ -26,7 +26,7 @@ const bernardo = {
   cargo:      "Desenvolvedor Full Stack (Estágio) — Governo de Minas Gerais",
   formação:   "Sistemas de Informação · UNA (5º semestre)",
   foco:       ["React", "TypeScript", "Laravel", "PHP", "MySQL"],
-  status:     "Sempre aprendendo 🚀",
+  status:     "Developing... 🚀",
 };
 ```
 
