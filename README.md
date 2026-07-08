@@ -82,7 +82,7 @@ const bernardo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bernardo-Araujo-Silva&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+  <img src="https://streak-stats.demolab.com?user=Bernardo-Araujo-Silva&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </div>
 
 ---
