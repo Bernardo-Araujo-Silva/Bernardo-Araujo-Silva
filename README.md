@@ -25,8 +25,7 @@ const bernardo = {
   localidade: "Belo Horizonte, MG 🇧🇷",
   cargo:      "Desenvolvedor Full Stack (Estágio) — Governo de Minas Gerais",
   formação:   "Sistemas de Informação · UNA (6º semestre)",
-  foco:       ["React", "TypeScript", "Laravel", "PHP", "MySQL"],
-  status:     "Sempre aprendendo 🚀",
+  foco:       ["React", "Vue", "TypeScript", "Laravel", "PHP", "MySQL"]
 };
 ```
 
